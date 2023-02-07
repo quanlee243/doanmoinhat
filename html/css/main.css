@@ -1,0 +1,122 @@
+.header {
+    font-size: 30px;
+    font-weight: 2000;
+    color:#f5bfb8;
+    font-family: 'Comic Sans MS';
+    margin-top: 15px;
+    position: absolute;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+}
+
+.container .section{
+    position: sticky;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    background: #000;
+}
+
+.container .section:nth-child(1){
+    background:
+                /* top, transparent black, faked with gradient */
+                linear-gradient(
+                    rgba(0, 0, 0, 0.30),
+                    rgba(0, 0, 0, 0.30)
+                ),
+                /* bottom, image */
+                url(https://f7-zpc.zdn.vn/4418515592669658737/7585aea26843b01de952.jpg);
+    background-size: cover;
+}
+
+.container .section:nth-child(2){
+    background:
+                /* top, transparent black, faked with gradient */
+                linear-gradient(
+                    rgba(0, 0, 0, 0.20),
+                    rgba(0, 0, 0, 0.20)
+                ),
+                /* bottom, image */
+                url(https://aicjsc.com/wp-content/uploads/2021/02/Tone-M%C3%A0u-Ch%E1%BB%A7-%C4%90%E1%BA%A1o-Trong-Xu-H%C6%B0%E1%BB%9Bng-Thi%E1%BA%BFt-K%E1%BA%BF-Qu%C3%A1n-Caf%C3%A9.jpg);
+    background-size: cover;
+}
+
+.container .section:nth-child(3){
+    background:
+                /* top, transparent black, faked with gradient */
+                linear-gradient(
+                    rgba(0, 0, 0, 0.30),
+                    rgba(0, 0, 0, 0.30)
+                ),
+                /* bottom, image */
+                url(https://ik.imagekit.io/tvlk/blog/2022/03/quan-cafe-quan-10-3.jpg);
+    background-size: cover;
+}
+
+.container .section:nth-child(4){
+    background:
+                /* top, transparent black, faked with gradient */
+                linear-gradient(
+                    rgba(0, 0, 0, 0.30),
+                    rgba(0, 0, 0, 0.30)
+                ),
+                /* bottom, image */
+                url(https://nguoidanang.vn/uploads/news/2019_10/26232367_1606266049409362_3672773853696464243_o.jpg);
+    background-size: cover;
+}
+.logo {
+    z-index: 10000;
+}
+.phan1{
+   margin-top: 100px;
+   font-size: 55px;
+   font-family: 'Comic Sans MS';
+   position: relative;
+   color: #ffecd9;
+   top: 130px;
+   left: 420px;
+   text-align: center;
+   font-weight: bold;
+   margin-left: -70px;
+}
+.phan2{
+    
+    font-size: 55px;
+    font-family: 'Comic Sans MS';
+    position: relative;
+    color: #ffecd9;
+    top: 300px;
+    left: 70px;
+    font-weight: bold;
+    margin-left: 0px;
+    text-align: center;
+ }
+ .phan3{
+    margin-top: 100px;
+    font-size: 55px;
+    font-family: 'Comic Sans MS';
+    position: relative;
+    color: #ffecd9;
+    top: 130px;
+    left: 420px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: -70px;
+ }
+ .phan4{
+    margin-top: 100px;
+    font-size: 55px;
+    font-family: 'Comic Sans MS';
+    position: relative;
+    color: #ffecd9;
+    top: 130px;
+    left: 420px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: -70px;
+ }

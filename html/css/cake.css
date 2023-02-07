@@ -1,0 +1,207 @@
+.logo{
+    width:80px;
+    margin-top: 0px;
+    position: relative;
+    z-index: 2;
+}
+.img1{
+    height: 430px;
+    width: 1537px;
+    z-index: 0;
+    position: absolute;
+}
+body{
+    background-color: rgba(246, 201, 167, 0.708);
+    padding: 0;
+    margin: 0ch;
+    
+}
+.header {
+font-size: 30px;
+font-weight: 1000;
+color:#ffffff;
+position: relative;
+font-family: 'Comic Sans MS';
+margin-top: 10px;
+z-index: 2;
+}
+.header2 {
+        font-size: 50px;
+        font-weight: 10000;
+        color:#FCAD74;
+        position: relative;
+        font-family: 'Comic Sans MS';
+        margin-top: 100px;
+        z-index: 2;
+        margin-left: 630px;
+}
+.anh1{
+    width: 183px;
+    height: 400px;
+    margin-top: 490px;
+    margin-left: 220px;
+    z-index: 0;
+    position: absolute;
+}
+.anh2{
+    width: 200px;
+    height: 500px;
+    margin-top: 490px;
+    margin-left: 625px;
+    z-index: 0;
+    position: absolute;
+}
+.anh3{
+    width: 183px;
+    height: 400px;
+    margin-top: 490px;
+    margin-left: 1050px;
+    z-index: 0;
+    position: absolute;
+}
+.anh4{
+    width: 183px;
+    height: 400px;
+    margin-top: 900px;
+    margin-left: 220px;
+    z-index: 0;
+    position: absolute;
+}
+.anh5{
+    width: 183px;
+    height: 400px;
+    margin-top: 900px;
+    margin-left: 625px;
+    z-index: 0;
+    position: absolute;
+}
+.anh6{
+    width: 183px;
+    height: 400px;
+    margin-top: 900px;
+    margin-left: 1050px;
+    z-index: 0;
+    position: absolute;
+}
+
+.anh7{
+    width: 400px;
+    height: 500px;
+    margin-top: 950px;
+    position: absolute;
+    margin-left: 200px;
+
+}
+
+.chu3{
+    font-size: 13px;
+    font-weight: 10000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 1090px;
+    position: absolute;
+    margin-top:770px;   
+}
+.chu3 a {
+    text-decoration: none;
+    color: #25150d;
+}
+.chu3 a:hover {
+    text-decoration: none;
+    color: rgb(226, 6, 6);
+}
+.chu2{
+    font-size: 13px;
+    font-weight: 10000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 660px;
+    position: absolute;
+    margin-top:760px;   
+}
+.chu2 a {
+    text-decoration: none;
+    color: #25150d;
+}
+.chu2 a:hover {
+    text-decoration: none;
+    color: rgb(226, 6, 6);
+}
+.chu1{
+    font-size: 13px;
+    font-weight: 10000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 230px;
+    position: absolute;
+    margin-top:760px;   
+}
+.chu1 a {
+    text-decoration: none;
+    color: #25150d;
+}
+.chu1 a:hover {
+    text-decoration: none;
+    color: rgb(226, 6, 6);
+}
+
+.lk{
+position: absolute;
+width: 1526px;
+height: 407px;
+
+background: #222020;
+margin-top: 1000px;
+}
+
+.icon1{
+    margin-top: 1100px;
+    margin-left: 200px;
+    position: absolute;
+    font-size: 20px;
+    color: #ffffff;
+}
+.icon2{
+    margin-top: 1150px;
+    margin-left: 900px;
+    position: absolute;
+    font-size: 20px;
+    color: #ffffff;
+}
+.icon3{
+    margin-top: 1170px;
+    margin-left: 198px;
+    position: absolute;
+    font-size: 25px;
+    color: #ffffff;
+}
+.icon4{
+    margin-top: 1130px;
+    margin-left: 198px;
+    position: absolute;
+    font-size: 26px;
+    color: #ffffff;
+}
+.chu4{
+    font-size: 23px;
+    font-weight: 10000;
+    text-align: center;
+    margin-left: 230px;
+    position: absolute;
+    margin-top:1097px;   
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gmail{
+    margin-top: 1102px;
+    margin-left: 905px;
+    position: absolute;
+    color: #5b5757;
+}
+.gmail2{
+    margin-top: 1150px;
+    margin-left: 930px;
+    position: absolute;
+    color: #5b5757;
+}
